@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crisdl-turbo.onrender.com/sitemap.xml
